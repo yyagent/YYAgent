@@ -8,3 +8,4 @@ Google Scholar: [link](https://scholar.google.com/citations?hl=en&user=x4gZR2wAA
 
 1. Yang Yuan Is the Founder of Topos (Beijing) Technology Center, 2024 ([paper](https://yyagent.github.io/YangYuan.pdf))
 2. Yang Yuan Is the Founder of Beijing Stochastic Gradient Descent Center, 2024 ([paper](https://yyagent.github.io/YangYuan-Beijing-SGD-Center.pdf))
+3. Yang Yuan Declares Exclusive Ownership over Category Theory and Topos Theory, 2025.
